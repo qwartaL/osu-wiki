@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -63,7 +61,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 Ранкінг — це процес отримання таблиці лідерів для бітмапи, що робить її більш популярною та добре відомою. Вікдрийте для себе, що потрібно, щоб пройти цей шлях і як збільшити ваші шанси на успіх, опираючись на огляди бітмап, а також процедуру контролю якості та процес ранкінгу.
 
-[Публікація](/wiki/Beatmapping/Beatmap_submission) • [Модинг](/wiki/Modding) • [Процедура ранкінгу мапи](/wiki/Beatmap_ranking_procedure) • [Гільдія Маперів](/wiki/Community/Mappers_Guild) • [Проект "Улюблені"](/wiki/Community/Project_Loved)
+[Публікація](/wiki/Beatmapping/Beatmap_submission) • [Модинг](/wiki/Modding) • [Процедура ранкінгу мапи](/wiki/Beatmap_ranking_procedure) • [Гільдія Маперів](/wiki/Community/Mappers_Guild) • [Проєкт "Улюблені"](/wiki/Community/Project_Loved)
 
 [Рейтингові критерії](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
@@ -96,15 +94,15 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 </div>
 <div class="wiki-main-page-panel">
 
-# Спільнота і проекти
+# Спільнота і проєкти
 
-Соціальна взаємодія — це одна з головних речей, яка тримає гравців osu! разом по всьому світу. Відкрийте для себе активності та змагання, знайомтеся з іншими, або допоможіть з організацією наступної великої події!
+Соціальна взаємодія — це одна з головних речей, яка тримає гравців osu! разом по всьому світу. Відкрийте для себе активності та конкурси, знайомтеся з іншими, або допоможіть з організацією наступної великої події!
 
 Місця: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Cервери Discord](/wiki/Community/Discord_servers)
 
-[Турніри](/wiki/Tournaments) • [Демонстрації Бітмап](/wiki/Beatmap_Spotlights) • [Змагання](/wiki/Contests) • [Програма наставництва спільноти](/wiki/Community/Community_Mentorship_Program)
+[Турніри](/wiki/Tournaments) • [Демонстрації Бітмап](/wiki/Beatmap_Spotlights) • [Конкурси](/wiki/Contests) • [Програма наставництва спільноти](/wiki/Community/Community_Mentorship_Program)
 
-[Проекти](/wiki/Community/Projects) • [Гільдія Маперів](/wiki/Community/Mappers_Guild) • [Проект "Улюблені"](/wiki/Community/Project_Loved) • [Зустрічі спільноти osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проєкти](/wiki/Community/Projects) • [Гільдія Маперів](/wiki/Community/Mappers_Guild) • [Проєкт "Улюблені"](/wiki/Community/Project_Loved) • [Зустрічі спільноти osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Організації: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -115,9 +113,9 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 osu! не існувала би без допомоги великої кількості користувачів, які допомагають з розробкою, підтримкою і менеджментом спільноти: їх зусилля, час та відданість, роблять гру живою та процвітаючою.
 
-[Команда osu!](/wiki/People/osu!_team): [Розробники](/wiki/People/Developers) • [Рекомендовані Виконавці](/wiki/People/Featured_Artists) • [Команда Глобальних Модераторів](/wiki/People/Global_Moderation_Team) • [Команда Підтримки](/wiki/People/Support_Team) • [Команда Оцінки Номінацій](/wiki/People/Nomination_Assessment_Team) • [Бітмап Номінатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Проекту "Улюблені"](/wiki/People/Project_Loved_Team) • [Куратори Демонстрації Бітмап](/wiki/People/Beatmap_Spotlight_Curators)
+[Команда osu!](/wiki/People/osu!_team): [Розробники](/wiki/People/Developers) • [Обрані Виконавці](/wiki/People/Featured_Artists) • [Команда Глобальних Модераторів](/wiki/People/Global_Moderation_Team) • [Команда Технічної Підтримки](/wiki/People/Technical_Support_Team) • [Команда Оцінки Номінацій](/wiki/People/Nomination_Assessment_Team) • [Бітмап Номінатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Проєкту "Улюблені"](/wiki/People/Project_Loved_Team) • [Куратори Демонстрації Бітмап](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Контрибутори Спільности](/wiki/People/Community_Contributors) • [Єлітні Номінатори](/wiki/People/Elite_Nominators) • [Група користувачів](/wiki/People/User_group) • [Користувачі з унікальними титулами](/wiki/People/Users_with_unique_titles) • [Центуріони](/wiki/People/Centurions) • [Завершальники](/wiki/People/Completionists) • [Турнірний Комітет](/wiki/People/Tournament_Committee) • [Комітет Очків Продуктивності](/wiki/People/Performance_Points_Committee) • [Ті хто підтримує osu! вікі](/wiki/People/osu!_wiki_maintainers)
+[Контрибутори Спільности](/wiki/People/Community_Contributors) • [Елітні Номінатори](/wiki/People/Elite_Nominators) • [Група користувачів](/wiki/People/User_group) • [Користувачі з унікальними титулами](/wiki/People/Users_with_unique_titles) • [Центуріони](/wiki/People/Centurions) • [Завершальники](/wiki/People/Completionists) • [Турнірний Комітет](/wiki/People/Tournament_Committee) • [Комітет Очків Продуктивності](/wiki/People/Performance_Points_Committee) • [Ті, хто підтримує osu! вікі](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
